@@ -1,5 +1,5 @@
 ### Association between Methicillin-Resistant *Staphylococcus aureus* (MRSA) and Hospitalizations from Community-onset and Healthcare-associated Infections in Georgia, USA, 2017 
-Author: Joyce Choe<br>
+Author: JC<br>
 
 Abstract
 

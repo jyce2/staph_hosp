@@ -9,4 +9,4 @@ Abstract
 **Conclusion** – Patients with MRSA infections were at an increased risk for hospitalization compared to those with MSSA in both community and healthcare-associated settings, after adjusting for septicemia, kidney dialysis, diabetes, smoking, open wounds, and patient age at the time of infection.
 
 
-* MSSA =  methicillin-susceptible *Staphylococcus aureus* 
+(*) MSSA =  methicillin-susceptible *Staphylococcus aureus* 

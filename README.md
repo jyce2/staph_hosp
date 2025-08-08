@@ -1,4 +1,4 @@
-### Modeling Risk factors of Hospitalization among Patients with *Staphylococcus aureus* Infection in Fulton County, Georgia, 2017 using a Logistic Random-Effects Model with Stratification
+### Modeling Risk factors of Hospitalization among Patients with *Staphylococcus aureus* Infection in Fulton County, Georgia, 2017 using a Logistic Random-Effects Model
 Author: JC<br>
 
 **Abstract**

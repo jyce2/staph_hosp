@@ -11,3 +11,6 @@ Author: JC<br>
 
 MSSA = methicillin-susceptible *Staphylococcus aureus*<br>
 MRSA = methicillin-resistant *Staphylococcus aureus*
+
+Data source:<br>
+Phillip, Katherine; Amber Britton; Andrew Webster; Susan M Ray; Robin Hubler; David Swerdlow; Scott Fridkin, 2023, "Clinical and Demographic Data of a Sample of Staphylococcus aureus Cases in a Diverse County in Georgia in 2017", [https://doi.org/10.15139/S3/LOGGGQ](https://doi.org/10.15139/S3/LOGGGQ), UNC Dataverse, V1, UNF:6:aMaU0jeaCxGK0sMMovR97A== [fileUNF]
